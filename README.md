@@ -133,7 +133,7 @@ Distribuido bajo licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
 
 ---
 
-## Autor
+## Autores
 
 **Eduardo Jauregui** [@Dunned](https://github.com/Dunned)
 **Jesús Zelaya** — [@jesuszelayac](https://github.com/jesuszelayac)
